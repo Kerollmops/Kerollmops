@@ -1,22 +1,13 @@
-### Hey, that's me [kero](https://twitter.com/Kerollmops) 🐵
+Hi there, I'm Clément (a.k.a. kero). I'm one of the co-founders of [MeiliSearch](https://github.com/meilisearch/MeiliSearch), as well as the CTO. 
 
-I come [from Bordeaux](https://fr.wikipedia.org/wiki/Bordeaux) a french city, where I first started spending time on my computer.
-I was interrested by trojan and other funny malwares.
+Currently I live in Clichy (near Paris) in France, but I was raised in Bordeaux, a city in France known for its wine production.
 
-At 18, just after my baccalauréat I started [42, a free school that were just been founded by Xavier Niel in 2013](https://www.42.fr/).
+I've been interested in computer science since my childhood. At 15 or so I got interested in hacking, and more specifically RAT (Remote Access Tool) malwares. I had fun infecting computers and stealing the passwords of my friends, but _shhhh don't tell them_. Around 17 I built my first website named CartelAmple in Laravel and jquery, a website where users had their own public page exposing things they liked. 
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1920px-42_Logo.svg.png" width="20%">
-</p>
+I moved to Paris and started Ecole 42 after high school, in 2013. It was my first time doing backend programming, I mean working with C and really understanding what was happening in my terminal console. I really liked it.
 
-Since then I [had worked at Vente Privée](https://fr.wikipedia.org/wiki/Veepee) for 2 years then founded Meili in November 2018. We worked with Louis Vuitton who helped us grow and we are in production there since the beginning of the start-up. I am the co-founder of Meili along with [**@tpayet**](https://github.com/tpayet) and [**@qdequele**](https://github.com/qdequele).
+My final internship was at Veepee, a major French e-commerce company, where I met Quentin & Thomas, and where we first started working on the project that would later become Meili. 
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo-veepee.png" width="40%">
-</p>
+And that's it! that's what you should know about me if we're going to work together I think.
 
-### I am making [MeiliSearch](https://github.com/meilisearch/meilisearch) faster both in terms of indexing and searching ⚡️
-
-I recently achieved interresting results where I was able to index _~110 million_ songs in less than 30 minutes. The resulting database was only _28GB_ on disk. All of this was achieved on a 16GB/4CPUs machine (39$/month).
-
-But the more important part is the query time, it is pretty good as it is able to [find relevant results in approximately _100ms_](https://twitter.com/Kerollmops/status/1282737080435605505?s=20) and all of this fits in ~1500 lines of Rust.
+Oh, and also: I'm a huge Apple fanboy, and love video games.
