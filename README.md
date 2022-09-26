@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Clément (a.k.a. kero).
 
-I'm one of the co-founders of [Meilisearch](https://github.com/meilisearch/MeiliSearch), as well as the CTO. 
+I'm one of the co-founders of [Meilisearch](https://github.com/meilisearch/MeiliSearch), as well as the Tech Lead. 
 
 Currently I live in Paris, but I was raised in Bordeaux, a city in France known for its wine production.
 
